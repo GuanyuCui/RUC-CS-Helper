@@ -1,0 +1,120 @@
+$ obj.objects
+
+$ Decorations
+
+@Sphere4D
+Center:(-500, 100, 400, 0)
+Radius:50
+Velocity:(0, 0, 0, 0)
+Mass:10
+Color:RGB(50, 150, 0)
+
+@Sphere4D
+Center:(400, 60, -600, 0)
+Radius:40
+Velocity:(0, 0, 0, 0)
+Mass:1
+Color:RGB(70, 220, 190)
+
+@Sphere4D
+Center:(-600, 80, -470, 0)
+Radius:80
+Velocity:(10, 6, 6, 4)
+Mass:5
+Color:RGB(105, 10, 195)
+
+@Sphere4D
+Center:(-300, 120, -600, 0)
+Radius:90
+Velocity:(6, 0, 10, 10)
+Mass:15
+Color:RGB(135, 120, 95)
+
+@Sphere4D
+Center:(400, 90, -800, 10)
+Radius:50
+Velocity:(-4, 4, -1, -4)
+Mass:2
+Color:RGB(60, 100, 245)
+
+@Sphere4D
+Center:(900, 70, -600, 10)
+Radius:20
+Velocity:(-5, 4, -15, -0.5)
+Mass:10
+Color:RGB(160, 120, 145)
+
+@Sphere4D
+Center:(800, 70, 600, 10)
+Radius:60
+Velocity:(0, 0, 0, 0)
+Mass:12
+Color:RGB(90, 170, 5)
+
+@Sphere4D
+Center:(600, 170, -600, 0)
+Radius:120
+Velocity:(-15, 0, 20, 0)
+Mass:0.1
+Color:RGB(190, 170, 15)
+
+@Sphere4D
+Center:(-50, 120, -700, 0)
+Radius:60
+Velocity:(0, 0, -15, 0)
+Mass:5
+Color:RGB(90, 80, 185)
+
+@Sphere4D
+Center:(-500, 70, 800, 0)
+Radius:50
+Velocity:(0, 0, 0, 0)
+Mass:0.5
+Color:RGB(190, 160, 90)
+
+@Sphere4D
+Center:(-800, 90, 500, 0)
+Radius:70
+Velocity:(10, 5, -15, 0)
+Mass:2
+Color:RGB(50, 160, 190)
+
+@Sphere4D
+Center:(-900, 90, 200, 0)
+Radius:90
+Velocity:(15, 5, -20, 0.5)
+Mass:1
+Color:RGB(150, 20, 90)
+
+$ Move and collide
+
+$ Red ball.
+@Sphere4D
+Center:(-300, 100, 0, 0)
+Radius:100
+Velocity:(60, 0, 0, 6)
+Mass:1000
+Color:RGB(255, 0, 0)
+
+$ Purple ball.
+@Sphere4D
+Center:(400, 100, 70, 0)
+Radius:60
+Velocity:(0, 0, 0, 0)
+Mass:1
+Color:RGB(255, 0, 255)
+
+
+@Sphere4D
+Center:(-300, 100, 170, 0)
+Radius:30
+Velocity:(30, 3, -6, 0)
+Mass:10
+Color:RGB(55, 100, 155)
+
+@Sphere4D
+Center:(-100, 120, 170, 0)
+Radius:100
+Velocity:(0, 0, 0, 0)
+Mass:100
+Color:RGB(255, 100, 155)
